@@ -1,7 +1,7 @@
 body {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     
     background: fixed;
     background-size: cover;
@@ -28,8 +28,8 @@ body {
     margin: 0 auto;
 }
 .svg-logo {
-    max-height: 220px;
-    max-width: 350px;
+    max-height: 320px;
+    max-width: 450px;
 }
 
 
