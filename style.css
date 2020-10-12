@@ -16,7 +16,7 @@ body {
 
 .container{
     display: block;
-     width: 60%;
+     width: 80%;
     margin: 2px auto;
     padding: 1%;
     border-radius: 1%;
@@ -28,7 +28,7 @@ body {
     margin: 0 auto;
 }
 .svg-logo {
-    max-height: 320px;
+    max-height: 420px;
     max-width: 500px;
 }
 
@@ -62,7 +62,7 @@ body {
     }
 
 .logo{
-   max-width: 500px;
+   max-width: 600px;
    font-style: normal;
 }
 
